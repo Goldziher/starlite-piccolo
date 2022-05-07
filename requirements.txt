@@ -1,0 +1,6 @@
+starlette
+starlite
+uvicorn
+jinja2
+piccolo[postgres]
+piccolo_admin
